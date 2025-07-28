@@ -21,7 +21,7 @@ The backend offers APIs for retrieving trending and recommended movies from TMDb
 -   **djangorestframework-simplejwt:** For JWT-based user authentication.
 -   **drf-spectacular:** For API documentation (Swagger/OpenAPI).
 -   **requests:** For interacting with the TMDb API.
--   **python-dotenv:** For managing environment variables.
+-   **django-environ:** For managing environment variables.
 -   **dj-database-url:** For parsing database URLs in settings.
 -   **Docker & Docker Compose:** For containerization and orchestration.
 
